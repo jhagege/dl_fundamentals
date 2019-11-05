@@ -1,7 +1,5 @@
 imageio
 Flask
-jupyter_console
 Pillow
 scipy
 sklearn
-tensorflowjs
